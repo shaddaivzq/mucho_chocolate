@@ -1,0 +1,40 @@
+.copy a{
+    text-decoration:none;
+    color: #e0e0e0;
+    font-family: 'Lobster', cursive;
+  }
+
+.parrafomod {
+  font-size: 205%;
+  font-family: 'Satisfy', cursive;
+}
+
+.imagenlogo {
+  width: 15%;
+}
+
+.nav-extended .nav-wrapper{
+  background-color: #795548 !important;
+}
+
+.nav-content {
+  background-color: #8d6e63 !important;
+}
+
+.modletraimgen {
+  font-family: 'Handlee', cursive;
+}
+
+.expoletra {
+  font-size: 200%;
+  font-family: 'Rancho', cursive;
+}
+
+.historiletra {
+  font-size: 100%;
+  font-family: 'Merienda One', cursive;
+}
+
+.bajar {
+  padding-top: 15%;
+}
